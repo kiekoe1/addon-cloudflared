@@ -339,7 +339,7 @@ bashio::log.debug "Cloudflared log level set to \"${log}\""
 # ------------------------------------------------------------------------------
 declare default_config=/tmp/config.json
 external_hostname=""
-tunnel_name="homeassistant"
+tunnel_name="cj.homeassistant"
 tunnel_uuid=""
 data_path="/data"
 
